@@ -1,16 +1,7 @@
-# custom_login_ui
+# Tugas E-learning Mobile Programming 2 - Custom Login UI
 
-A new Flutter project.
+## Hasil Implementasi Final (Custom Dark Mode UI - 'gratafy')
 
-## Getting Started
+![Screenshot Hasil Akhir UI Login](SS_hasil_akhir.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Azka Adzkiyatul Arifin] - [232101364]
